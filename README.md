@@ -1,5 +1,5 @@
 # Solve Me First
-
+![Solve Me First Example](./images/solveme1.png)
 This repository contains a solution to the **"Solve Me First"** coding challenge.
 
 ## The Challenge
